@@ -1,3 +1,3 @@
 # GooglePhish
 
-OnlinePage : https://lotter-35.github.io/GooglePhish/
+OnlinePage OFFILINE : https://lotter-35.github.io/GooglePhish/
